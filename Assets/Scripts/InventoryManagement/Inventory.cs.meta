@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 308f6d39f0142a64a9f013930fe0e661
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inventorySlot: {fileID: 2433369820237624407, guid: 8446342d34ca309499a20a4e7053e074, type: 3}
+  - inventoryItem: {fileID: 260939922110153687, guid: 6ea5c9d8b16a63c459c3a5e601875cd5, type: 3}
+  - inventoryCanvas: {fileID: 5707261711464562313, guid: 35e6bd4e5a41fb641b0c30f362a0e718, type: 3}
+  executionOrder: 300
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
